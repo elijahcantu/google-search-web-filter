@@ -1,0 +1,19 @@
+{
+  "name": "Google Search Web Filter Redirector",
+  "version": "0.1",
+  "manifest_version": 3,
+  "description": "Redirects google searches to use the \"Web\" filter, which contains text-based links to websites.",
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "ruleset_1",
+        "enabled": true,
+        "path": "rules.json"
+      }
+    ]
+  },
+  "permissions": [
+    "declarativeNetRequest"
+  ],
+  "host_permissions": ["https://www.google.com/search*"]
+}
