@@ -2,6 +2,7 @@
   "name": "Google Search Web Filter Redirector",
   "version": "0.1",
   "manifest_version": 3,
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuwEKtbt76DlQg+n7IZw6pRnYjgRVzIybqFw9gOGJu1vP/RcKQRw+tA2POdt3axObkgc84R1XZudNArjck/m7WUwn1f/uhJ0Bs9vXlvdmRRqBQyKkofJFRkDE4qvU9U9Gl4nBe1lHuYnExRVpG6nt6+Eeua1xAcfApmyjgKAsoXH6TUjkY7ZrSH4+W+oXzsV//nvMI8d2spot9c9x1XrmfSM+XW9gdH2+qnxE1nspgjVaZjWPtPYmlxVXCpJhCykWAMb5O2426W1TLnQItTAUIElIGpB/BWXMqdT+zbDdCdZ3u3jHEXTj0auzx+fCTSQMTzAdYMjL7DvKSFm8Tbz6XwIDAQAB",
   "description": "Redirects google searches to use the \"Web\" filter, which contains text-based links to websites.",
   "declarative_net_request": {
     "rule_resources": [
