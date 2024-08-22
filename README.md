@@ -1,2 +1,2 @@
-# google-search-web-filter-redirector
-Chrome extension that redirects google searches to use the "Web" filter, which contains text-based links to websites.
+# Google Search Web Filter Redirector
+Chrome extension that redirects Google searches to the Web filter, which contains text-based links to websites.
