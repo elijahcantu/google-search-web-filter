@@ -9,7 +9,7 @@
       }
     },
     "condition": {
-      "regexFilter": "https://www.google.([a-z.]+)/search\\?q=([^&]+)&oq.*",
+      "regexFilter": "https://www.google.([a-z.]+)/search\\?q=([^&]+)&(?:oq|rlz).*",
       "resourceTypes": [
         "main_frame"
       ]
