@@ -1,14 +1,14 @@
 {
-  "name": "Google Search Web Filter Redirector",
+  "name": "Google Search Web Filter",
   "version": "1.2",
   "manifest_version": 3,
   "description": "Redirects Google searches to the Web filter, which contains text-based links to websites.",
   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApchEH87359BhUsBv0pTEWC6xotcspC+znPPlM6cjlUBcaiVjkDca6ifZiNXHdqRT3wIkcU1FminWX6oY+v5Drx6xemXvGYGhnj4flpEmeszjuRoU3p6oDANR8f3S8tPviKSX0MWB17kLWR9JM7df0UEcuWr9Om+L8wtCWSqTomJzuArEVfPakKMFdJfg39gWEScJzXvCdH6JBEB84fkItgE+e6tnly7N87aWgqYqKVr9H1JdvrvG9tKXKStrqrg5eNmKxFkdfXeCHK41Hfh8zsKrPux+Ky6VX3UfJ2sGtSGiG4RIPaL9lHqrl8zJJWMQbj1GC60q9qW7e3mdQ0zcMwIDAQAB",
   "icons": {
-    "16": "/icons/icon16.png",
-    "32": "/icons/icon32.png",
-    "48": "/icons/icon48.png",
-    "128": "/icons/icon128.png"
+    "16": "/icons/16.png",
+    "32": "/icons/32.png",
+    "48": "/icons/48.png",
+    "128": "/icons/128.png"
   },
   "declarative_net_request": {
     "rule_resources": [
